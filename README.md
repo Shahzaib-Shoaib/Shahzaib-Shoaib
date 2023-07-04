@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahzaib-Shoaib
 - 👀 I’m interested in coding
-- 🌱 I’m currently doing BSSE
+- 🌱 I’m currently doing Bachelors of Science in Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
