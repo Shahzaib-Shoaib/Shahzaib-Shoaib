@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shahzaib Shaoib</h1>
+<h1 align="center">Hi 👋, I'm Shahzaib Shoaib</h1>
 <h3 align="center">A passionate frontend developer from Karachi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-shoaib&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-shoaib" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [fester-924622.vercel.app](fester-924622.vercel.app)
+- 👨‍💻 All of my projects are available at [https://fester-924622.vercel.app](https://fester-924622.vercel.app)
 
 - 📫 How to reach me **fester9484@gmail.com**
 
