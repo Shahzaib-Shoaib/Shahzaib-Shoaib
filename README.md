@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-shoaib&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-shoaib" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://fester-924622.vercel.app](https://fester-924622.vercel.app)
 
